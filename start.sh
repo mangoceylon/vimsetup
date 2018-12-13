@@ -1,4 +1,5 @@
 mkdir ~/.copyVim
+mkdir ~/tmp
 cp -R ~/.vim ~/.copyVim
 cp ~/.vimrc ~/.copyVim
 rm -rf ~/.vim
